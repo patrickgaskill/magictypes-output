@@ -1,3 +1,4 @@
+Types,Card Name,Set Code,Number,Release Date
 Enchantment — Aura,Animate Wall,LEA,1,1993-08-05
 Sorcery,Armageddon,LEA,2,1993-08-05
 Creature — Human Soldier,Benalish Hero,LEA,4,1993-08-05
@@ -2001,10 +2002,27 @@ Artifact Creature — Salamander,Sojourner's Companion,MH2,235,2021-06-18
 Artifact Creature — Camel,Steel Dromedary,MH2,237,2021-06-18
 Legendary Artifact Creature — Insect,"Zabaz, the Glimmerwasp",MH2,243,2021-06-18
 Enchantment Land — Urza’s Saga,Urza's Saga,MH2,259,2021-06-18
+Creature — Orc Knight,"""Paladin of Devotion""",AFR,11,2021-07-23
 Creature — Dwarf Ranger,Gloom Stalker,AFR,16,2021-07-23
+Creature — Human Elf Cleric,Moon-Blessed Cleric,AFR,26,2021-07-23
 Legendary Creature — Dragon Knight,"Nadaar, Selfless Paladin",AFR,27,2021-07-23
+Legendary Creature — Gnome Artificer,"""Oswald Fiddlebender""",AFR,28,2021-07-23
+Creature — Dragon Turtle,Dragon Turtle,AFR,56,2021-07-23
+Legendary Creature — Horror,"Grazilaxx, Illithid Scholar",AFR,60,2021-07-23
+Creature — Beholder,Baleful Beholder,AFR,89,2021-07-23
 Legendary Planeswalker — Lolth,"Lolth, Spider Queen",AFR,112,2021-07-23
+Creature — Goblin Barbarian,Hobgoblin Captain,AFR,148,2021-07-23
+Creature — Dwarf Barbarian,Plundering Barbarian,AFR,158,2021-07-23
+Creature — Tiefling Bard,"""Horny Bard""",AFR,165,2021-07-23
+Legendary Planeswalker — Zariel,"Zariel, Archduke of Avernus",AFR,172,2021-07-23
 Legendary Planeswalker — Ellywick,Ellywick Tumblestrum,AFR,181,2021-07-23
+Creature — Elf Bard,Inspiring Bard,AFR,189,2021-07-23
+Creature — Orc Ranger,Intrepid Outlander,AFR,191,2021-07-23
+Creature — Bird Bear,Owlbear,AFR,198,2021-07-23
 Creature — Halfling Citizen,Prosperous Innkeeper,AFR,200,2021-07-23
 Legendary Creature — Elf Ranger,Drizzt Do'Urden,AFR,220,2021-07-23
+Legendary Creature — Human Elf Rogue,"""Krydle of Baldur's Gate""",AFR,226,2021-07-23
+Legendary Creature — Gnoll,"""Targ Nar, Large Beast, Chaotic Evil""",AFR,234,2021-07-23
 Legendary Creature — Dragon God,Tiamat,AFR,235,2021-07-23
+Artifact — Treasure,Mimic,AFR,249,2021-07-23
+Legendary Creature — Beholder,"Xanathar, Guild Kingpin",AFR,391,2021-07-23

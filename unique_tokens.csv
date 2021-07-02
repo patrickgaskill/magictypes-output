@@ -1,3 +1,4 @@
+Types,Token Name,Card Name,Set Code,Number,Release Date
 Artifact Creature — Insect,Wasp,The Hive,LEA,272,1993-08-05
 Creature — Bird,Bird,Rukh Egg,ARN,43,1993-12-17
 Artifact Creature — Djinn,Djinn,Bottle of Suleiman,ARN,58,1993-12-17
@@ -232,4 +233,6 @@ Creature — Fractal,Fractal,"Deekah, Fractal Theorist",C21,26,2021-04-23
 Creature — Pest,Pest,Blight Mound,C21,36,2021-04-23
 Creature — Fungus Beast,Fungus Beast,Trudge Garden,C21,69,2021-04-23
 Creature — Crab,Crab,Hard Evidence,MH2,46,2021-06-18
+Legendary Artifact — Equipment,"Icingdeath, Frost Tongue","Icingdeath, Frost Tyrant",AFR,20,2021-07-23
+Legendary Creature — Zombie God,Vecna,The Book of Vile Darkness,AFR,91,2021-07-23
 Legendary Creature — Cat,Guenhwyvar,Drizzt Do'Urden,AFR,220,2021-07-23

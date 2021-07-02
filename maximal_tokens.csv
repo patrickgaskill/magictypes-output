@@ -1,3 +1,4 @@
+Types,Token Name,Card Name,Set Code,Number,Release Date
 Artifact Creature — Insect,Wasp,The Hive,LEA,272,1993-08-05
 Artifact Creature — Djinn,Djinn,Bottle of Suleiman,ARN,58,1993-12-17
 Artifact Creature — Tetravite,Tetravite,Tetravus,ATQ,71,1994-03-04
@@ -34,7 +35,6 @@ Enchantment Creature — Elemental,Elemental,Satyr Nyx-Smith,BNG,109,2014-02-07
 Enchantment Creature — Centaur,Centaur,Fated Intervention,BNG,121,2014-02-07
 Enchantment Creature — Spider,Spider,Renowned Weaver,JOU,137,2014-05-02
 Enchantment Creature — Snake,Snake,"Pharika, God of Affliction",JOU,154,2014-05-02
-Artifact — Equipment,Stoneforged Blade,"Nahiri, the Lithomancer",C14,10,2014-11-07
 Legendary Creature — Elemental,"Ashaya, the Awoken World","Nissa, Vastwood Seer // Nissa, Sage Animist",ORI,189,2015-07-17
 Enchantment Creature — Spirit,Spirit,Daxos the Returned,C15,43,2015-11-13
 Artifact — Clue,Clue,Bygone Bishop,SOI,8,2016-04-08
@@ -50,4 +50,6 @@ Artifact — Food,Food,Bartered Cow,ELD,6,2019-10-04
 Artifact Creature — Goblin Construct,Goblin Construct,Relic Robber,ZNR,153,2020-09-25
 Enchantment — Shard,Shard,Niko Aris,KHM,225,2021-02-05
 Snow Artifact,Icy Manalith,"Svella, Ice Shaper",KHM,230,2021-02-05
+Legendary Artifact — Equipment,"Icingdeath, Frost Tongue","Icingdeath, Frost Tyrant",AFR,20,2021-07-23
+Legendary Creature — Zombie God,Vecna,The Book of Vile Darkness,AFR,91,2021-07-23
 Legendary Creature — Cat,Guenhwyvar,Drizzt Do'Urden,AFR,220,2021-07-23

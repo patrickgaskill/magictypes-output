@@ -225,6 +225,7 @@ Creature — Insect Monk Cleric,Thelonite Monk,FEM,79,1994-11-01
 Creature — Fox,Arctic Foxes,ICE,2,1995-06-03
 Creature — Elf Cleric,Elvish Healer,ICE,22,1995-06-03
 Creature — Horse,Hipparion,ICE,31,1995-06-03
+Creature — Human Ranger,Kelsinko Ranger,ICE,33,1995-06-03
 Creature — Human Mercenary,Mercenaries,ICE,44,1995-06-03
 Creature — Dog,Snow Hound,ICE,53,1995-06-03
 Creature — Human Cleric Shaman,Balduvian Shaman,ICE,59,1995-06-03
@@ -282,7 +283,8 @@ Creature — Horror Spirit,Krovikan Horror,ALL,53,1996-06-10
 Creature — Goblin Scout,Enslaved Scout,ALL,71a,1996-06-10
 Creature — Ape Shaman,Gorilla Shaman,ALL,72a,1996-06-10
 Creature — Human Rogue Mercenary,Rogue Skycaptain,ALL,79,1996-06-10
-Creature — Elf Shaman,Elvish Bard,ALL,87,1996-06-10
+Creature — Elf Shaman Bard,Elvish Bard,ALL,87,1996-06-10
+Creature — Elf Ranger,Elvish Ranger,ALL,88a,1996-06-10
 Creature — Elf Spirit,Elvish Spirit Guide,ALL,89,1996-06-10
 Creature — Ape Berserker,Gorilla Berserkers,ALL,93a,1996-06-10
 Legendary Creature — Elf Druid,Kaysa,ALL,96,1996-06-10
@@ -319,7 +321,6 @@ Creature — Zombie Giant,Necrosavant,MGB,4,1996-11-01
 Creature — Jellyfish,Man-o'-War,VIS,37,1997-02-03
 Creature — Cyclops Warrior,Tar Pit Warrior,VIS,70,1997-02-03
 Creature — Plant Fungus,Lichenthrope,VIS,112,1997-02-03
-Creature — Elf Ranger,Quirion Ranger,VIS,117,1997-02-03
 Creature — Antelope Beast,Stampeding Wildebeests,VIS,121,1997-02-03
 Creature — Hippo,Pygmy Hippo,VIS,133,1997-02-03
 Artifact Creature — Chimera,Brass-Talon Chimera,VIS,142,1997-02-03
@@ -374,6 +375,7 @@ Creature — Elemental Dinosaur,Magmasaur,TMP,188,1997-10-14
 Creature — Human Soldier Warrior,Sandstone Warrior,TMP,199,1997-10-14
 Creature — Troll Giant,Skyshroud Troll,TMP,257,1997-10-14
 Creature — Spike Drone,Spike Drone,TMP,258,1997-10-14
+Creature — Human Soldier Archer Ranger,Ranger en-Vec,TMP,268,1997-10-14
 Legendary Creature — Phyrexian Angel,"Selenia, Dark Angel",TMP,270,1997-10-14
 Artifact Creature — Snake,Coiled Tinviper,TMP,279,1997-10-14
 Artifact Creature — Sliver,Metallic Sliver,TMP,297,1997-10-14
@@ -412,6 +414,7 @@ Creature — Human Pirate Wizard,Talas Researcher,P02,51,1998-06-24
 Creature — Human Pirate Warrior,Talas Warrior,P02,53,1998-06-24
 Creature — Ogre Berserker,Ogre Berserker,P02,111,1998-06-24
 Creature — Ogre Warrior,Ogre Warrior,P02,113,1998-06-24
+Creature — Elf Scout Ranger,Norwood Ranger,P02,138,1998-06-24
 Creature — Elf Warrior,Norwood Warrior,P02,140,1998-06-24
 Creature — Phyrexian Imp,Crazed Skirge,USG,125,1998-10-12
 Creature — Phyrexian Zombie Knight,Eastern Paladin,USG,133,1998-10-12
@@ -437,6 +440,7 @@ Creature — Elk Beast,Gang of Elk,ULG,102,1999-02-15
 Creature — Metathran Soldier,Metathran Elite,UDS,38,1999-06-07
 Creature — Cyclops Giant,Bloodshot Cyclops,UDS,77,1999-06-07
 Creature — Goat Beast,Colos Yearling,UDS,79,1999-06-07
+Creature — Elf Shaman,Elvish Piper,UDS,104,1999-06-07
 Creature — Bird Beast,Hunting Moa,UDS,109,1999-06-07
 Creature — Elf Wizard,Ivy Seer,UDS,110,1999-06-07
 Artifact Creature — Masticore,Masticore,UDS,134,1999-06-07
@@ -506,6 +510,7 @@ Creature — Metathran Zombie,Metathran Zombie,INV,63,2000-10-02
 Creature — Metathran Wizard,Sky Weaver,INV,74,2000-10-02
 Creature — Kavu,Firescreamer,INV,106,2000-10-02
 Creature — Phyrexian Insect,Phyrexian Battleflies,INV,114,2000-10-02
+Creature — Human Soldier Ranger,Firebrand Ranger,INV,143,2000-10-02
 Creature — Kavu Scout,Kavu Scout,INV,151,2000-10-02
 Creature — Elf Nomad,Nomadic Elf,INV,200,2000-10-02
 Creature — Treefolk Cleric,Treefolk Healer,INV,218,2000-10-02
@@ -633,6 +638,7 @@ Creature — Zombie Barbarian,Undead Gladiator,ONS,178,2002-10-07
 Legendary Creature — Gorgon,Visara the Dreadful,ONS,179,2002-10-07
 Creature — Goblin Avatar,Reckless One,ONS,222,2002-10-07
 Creature — Wolverine Beast,Spurred Wolverine,ONS,237,2002-10-07
+Creature — Elf Druid Ranger,Birchlore Rangers,ONS,248,2002-10-07
 Creature — Elf Wizard Shaman,Bloodline Shaman,ONS,249,2002-10-07
 Creature — Elf Avatar,Heedless One,ONS,265,2002-10-07
 Creature — Insect Beast,Symbiotic Beast,ONS,287,2002-10-07
@@ -653,6 +659,7 @@ Creature — Beast Mutant,Krosan Cloudscraper,LGN,130,2003-02-03
 Creature — Cat Beast,Krosan Vorine,LGN,131,2003-02-03
 Creature — Insect Druid Mutant,Nantuko Vigilante,LGN,132,2003-02-03
 Creature — Dragon Spirit,Eternal Dragon,SCG,12,2003-05-26
+Creature — Bird Soldier Ranger,Shoreline Ranger,SCG,51,2003-05-26
 Creature — Zombie Dinosaur Beast,Putrid Raptor,SCG,71,2003-05-26
 Creature — Dragon Wizard,Dragon Mage,SCG,87,2003-05-26
 Creature — Human Barbarian Shaman,Dragonspeaker Shaman,SCG,89,2003-05-26
@@ -738,6 +745,7 @@ Legendary Creature — Goblin Warrior,Zo-Zu the Punisher,CHK,200,2004-10-01
 Legendary Creature — Human Monk,"Azusa, Lost but Seeking",CHK,201,2004-10-01
 Creature — Snake Shaman,"Orochi Eggwatcher // Shidako, Broodmistress",CHK,233,2004-10-01
 Legendary Creature — Snake Shaman,"Orochi Eggwatcher // Shidako, Broodmistress",CHK,233,2004-10-01
+Creature — Snake Warrior Ranger,Orochi Ranger,CHK,235,2004-10-01
 Legendary Creature — Snake Monk,Seshiro the Anointed,CHK,241,2004-10-01
 Legendary Creature — Snake Warrior,"Shisato, Whispering Hunter",CHK,242,2004-10-01
 Creature — Human Samurai Archer,Takeno's Cavalry,BOK,24,2005-02-04
@@ -835,6 +843,7 @@ Snow Creature — Snake,Ohran Viper,CSP,115,2006-07-21
 Snow Creature — Aurochs,Rimehorn Aurochs,CSP,118,2006-07-21
 Snow Creature — Specter,Blizzard Specter,CSP,126,2006-07-21
 Snow Creature — Faerie,Diamond Faerie,CSP,128,2006-07-21
+Creature — Human Knight Ranger,Juniper Order Ranger,CSP,130,2006-07-21
 Legendary Creature — Orc Shaman,"Sek'Kuar, Deathkeeper",CSP,131,2006-07-21
 Snow Artifact,Coldsteel Heart,CSP,136,2006-07-21
 Snow Artifact Creature — Phyrexian Construct,Phyrexian Ironfoot,CSP,139,2006-07-21
@@ -853,6 +862,7 @@ Creature — Orc Scout,Ironclaw Buzzardiers,TSP,165,2006-10-06
 Creature — Fungus Sliver,Fungus Sliver,TSP,195,2006-10-06
 Creature — Insect Shaman,Nantuko Shaman,TSP,208,2006-10-06
 Creature — Wurm Spirit,Phantom Wurm,TSP,211,2006-10-06
+Creature — Faerie Ranger,Scryb Ranger,TSP,215,2006-10-06
 Legendary Creature — Human Scout,Saffi Eriksdotter,TSP,245,2006-10-06
 Legendary Creature — Dragon Avatar,Scion of the Ur-Dragon,TSP,246,2006-10-06
 Legendary Creature — Centaur Warrior,"Stonebrow, Krosan Hero",TSP,247,2006-10-06
@@ -899,6 +909,7 @@ Creature — (all creature types),Avian Changeling,LRW,4,2007-10-12
 Legendary Creature — Kithkin Archer,"Brigid, Hero of Kinsbaile",LRW,6,2007-10-12
 Creature — Kithkin Wizard,Burrenton Forge-Tender,LRW,7,2007-10-12
 Creature — Kithkin Soldier,Cenn's Heir,LRW,8,2007-10-12
+Creature — Giant Warrior Ranger,Cloudgoat Ranger,LRW,10,2007-10-12
 Tribal Instant — (all creature types),Crib Swap,LRW,11,2007-10-12
 Tribal Enchantment — Giant,Favor of the Mighty,LRW,14,2007-10-12
 Creature — Merfolk Archer,Harpoon Sniper,LRW,19,2007-10-12
@@ -1039,6 +1050,7 @@ Creature — Merfolk Noble,Merfolk Sovereign,M10,62,2009-07-17
 Creature — Human Wizard Warlock,Dread Warlock,M10,94,2009-07-17
 Creature — Vampire Rogue Noble,Vampire Aristocrat,M10,117,2009-07-17
 Creature — Elemental Dog,Fiery Hellhound,M10,135,2009-07-17
+Creature — Human Scout Ranger,Borderland Ranger,M10,169,2009-07-17
 Creature — Elk,Great Sable Stag,M10,186,2009-07-17
 Creature — Fungus Snake,Mold Adder,M10,194,2009-07-17
 Creature — Kor Cleric,Kor Sanctifiers,HOP,3,2009-09-04
@@ -1091,10 +1103,10 @@ Creature — Human Berserker Ally,Highland Berserker,ZEN,132,2009-10-02
 Creature — Minotaur Warrior Ally,Kazuul Warlord,ZEN,134,2009-10-02
 Creature — Human Shaman Ally,Murasa Pyromancer,ZEN,139,2009-10-02
 Creature — Goblin Warrior Ally,Tuktuk Grunts,ZEN,152,2009-10-02
-Creature — Elf Rogue Ally,Joraga Bard,ZEN,166,2009-10-02
+Creature — Elf Rogue Bard Ally,Joraga Bard,ZEN,166,2009-10-02
 Legendary Planeswalker — Nissa,Nissa Revane,ZEN,170,2009-10-02
 Creature — Elf Archer Ally,Tajuru Archer,ZEN,185,2009-10-02
-Creature — Elf Scout Ally,Turntimber Ranger,ZEN,191,2009-10-02
+Creature — Elf Scout Ranger Ally,Turntimber Ranger,ZEN,191,2009-10-02
 Artifact Creature — Cat Ally,Stonework Puma,ZEN,207,2009-10-02
 Creature — Kor Artificer,Stoneforge Mystic,WWK,20,2010-02-05
 Creature — Human Knight Ally,Talus Paladin,WWK,21,2010-02-05
@@ -1221,7 +1233,7 @@ Creature — Vampire Scout,Vampire Interloper,ISD,123,2011-09-30
 Creature — Human Warrior Werewolf,Hanweir Watchkeep // Bane of Hanweir,ISD,145,2011-09-30
 Creature — Human Werewolf,Instigator Gang // Wildblood Pack,ISD,149,2011-09-30
 Creature — Human Rogue Werewolf,Kruin Outlaw // Terror of Kruin Pass,ISD,152,2011-09-30
-Creature — Human Archer Werewolf,Daybreak Ranger // Nightfall Predator,ISD,176,2011-09-30
+Creature — Human Archer Ranger Werewolf,Daybreak Ranger // Nightfall Predator,ISD,176,2011-09-30
 Creature — Human Advisor Werewolf,Mayor of Avabruck // Howlpack Alpha,ISD,193,2011-09-30
 Creature — Human Shaman Werewolf,Ulvenwald Mystics // Ulvenwald Primordials,ISD,208,2011-09-30
 Legendary Creature — Spirit Cleric,Geist of Saint Traft,ISD,213,2011-09-30
@@ -1368,6 +1380,7 @@ Creature — Zombie Wall,Wall of Limbs,M15,121,2014-07-18
 Legendary Creature — Ogre Spirit,"Kurkesh, Onakke Ancient",M15,153,2014-07-18
 Creature — Plant Elemental Beast,Carnivorous Moss-Beast,M15,170,2014-07-18
 Creature — Fungus Horror,Undergrowth Scavenger,M15,204,2014-07-18
+Legendary Creature — Human Rogue Bard,"Yisan, the Wanderer Bard",M15,209,2014-07-18
 Artifact Creature — Phyrexian Avatar,Soul of New Phyrexia,M15,231,2014-07-18
 Legendary Creature — Orc Warrior,Zurgo Helmsmasher,DDN,1,2014-09-05
 Creature — Dog Soldier,Ainok Bond-Kin,KTK,3,2014-09-26
@@ -1423,7 +1436,9 @@ Creature — Vampire Assassin Ally,Nirkana Assassin,BFZ,118,2015-10-02
 Creature — Goblin Scout Ally,Chasm Guide,BFZ,143,2015-10-02
 Creature — Giant Warrior Ally,Shatterskull Recruit,BFZ,155,2015-10-02
 Legendary Creature — Goblin Ally,"Zada, Hedron Grinder",BFZ,162,2015-10-02
+Creature — Human Warrior Ranger,Murasa Ranger,BFZ,178,2015-10-02
 Creature — Elf Warrior Ally,Tajuru Beastmaster,BFZ,193,2015-10-02
+Creature — Elf Scout Ally,Tajuru Stalwart,BFZ,194,2015-10-02
 Creature — Elf Druid Ally,Grovetender Druids,BFZ,212,2015-10-02
 Legendary Creature — Kor Ally,"Munda, Ambush Leader",BFZ,215,2015-10-02
 Legendary Creature — Merfolk Ally,"Noyan Dar, Roil Shaper",BFZ,216,2015-10-02
@@ -1469,8 +1484,8 @@ Creature — Eldrazi Octopus,Elder Deep-Fiend,EMN,5,2016-07-22
 Creature — Eldrazi Horror,Eternal Scourge,EMN,7,2016-07-22
 Creature — Eldrazi Beast,Mockery of Nature,EMN,10,2016-07-22
 Creature — Eldrazi Hippogriff,Wretched Gryff,EMN,12,2016-07-22
-Legendary Creature — Angel Horror,"Bruna, the Fading Light // Brisela, Voice of Nightmares",EMN,15a,2016-07-22
-Legendary Creature — Eldrazi Angel,"Brisela, Voice of Nightmares",EMN,15b,2016-07-22
+Legendary Creature — Angel Horror,"Bruna, the Fading Light // Gisela, the Broken Blade",EMN,15a,2016-07-22
+Legendary Creature — Eldrazi Angel,"Brisela, Voice of Nightmares // Gisela, the Broken Blade",EMN,15b,2016-07-22
 Creature — Eldrazi Homunculus,Curious Homunculus // Voracious Reader,EMN,54,2016-07-22
 Creature — Eldrazi Fish,Grizzled Angler // Grisly Anglerfish,EMN,63,2016-07-22
 Creature — Human Horror,Wharf Infiltrator,EMN,80,2016-07-22
@@ -1578,6 +1593,7 @@ Legendary Creature — Dinosaur Avatar,"Gishath, Sun's Avatar",XLN,222,2017-09-2
 Legendary Planeswalker — Huatli,"Huatli, Warrior Poet",XLN,224,2017-09-29
 Legendary Creature — Merfolk Shaman,"Tishana, Voice of Thunder",XLN,230,2017-09-29
 Legendary Creature — Elder Dinosaur,"Zetalpa, Primal Dawn",RIX,30,2018-01-19
+Creature — Merfolk Scout Ranger,Jadelight Ranger,RIX,136,2018-01-19
 Legendary Planeswalker — Angrath,"Angrath, the Flame-Chained",RIX,152,2018-01-19
 Creature — Shapeshifter Pirate,Protean Raider,RIX,167,2018-01-19
 Enchantment — Saga,Fall of the Thran,DOM,18,2018-04-27
@@ -1678,7 +1694,6 @@ Creature — Merfolk Mutant,Merfolk Skydiver,WAR,205,2019-05-03
 Legendary Creature — Human Mutant,"Roalesk, Apex Hybrid",WAR,213,2019-05-03
 Legendary Creature — Zombie Elf Wizard,"Storrev, Devkarin Lich",WAR,219,2019-05-03
 Creature — Wizard Illusion,Jace's Projection,WAR,272,2019-05-03
-Creature — Human Soldier Ranger,Ranger-Captain of Eos,MH1,21,2019-06-14
 Legendary Planeswalker — Serra,Serra the Benevolent,MH1,26,2019-06-14
 Snow Creature — Insect,Chillerpillar,MH1,43,2019-06-14
 Snow Creature — Crab,Iceberg Cancrix,MH1,54,2019-06-14
@@ -1737,6 +1752,7 @@ Legendary Creature — Giant Noble,"Yorvo, Lord of Garenbrig",ELD,185,2019-10-04
 Legendary Planeswalker — Oko,"Oko, Thief of Crowns",ELD,197,2019-10-04
 Legendary Planeswalker — Will Rowan,The Royal Scions,ELD,199,2019-10-04
 Creature — Skeleton Knight,Deathless Knight,ELD,208,2019-10-04
+Creature — Elf Knight Ranger,Oakhame Ranger // Bring Back,ELD,212,2019-10-04
 Creature — Turtle Hydra,Thunderous Snapper,ELD,215,2019-10-04
 Artifact Creature — Food Golem,Gingerbrute,ELD,219,2019-10-04
 Artifact — Food,Golden Egg,ELD,220,2019-10-04
@@ -1873,6 +1889,7 @@ Legendary Creature — Kobold Warrior,"Rograkh, Son of Rohgahh",CMR,197,2020-11-
 Legendary Creature — Wolf Beast,"Anara, Wolvid Familiar",CMR,214,2020-11-20
 Creature — Chimera Hydra,Apex Devastator,CMR,217,2020-11-20
 Creature — Elf Salamander Rogue,Fin-Clade Fugitives,CMR,227,2020-11-20
+Legendary Creature — Human Archer Ranger,"Halana, Kessig Ranger",CMR,231,2020-11-20
 Legendary Creature — Elf Horror,Abomination of Llanowar,CMR,265,2020-11-20
 Legendary Creature — Turtle Shaman,"Archelos, Lagoon Mystic",CMR,268,2020-11-20
 Legendary Creature — Imp,"Blim, Comedic Genius",CMR,272,2020-11-20
@@ -2002,26 +2019,47 @@ Artifact Creature — Salamander,Sojourner's Companion,MH2,235,2021-06-18
 Artifact Creature — Camel,Steel Dromedary,MH2,237,2021-06-18
 Legendary Artifact Creature — Insect,"Zabaz, the Glimmerwasp",MH2,243,2021-06-18
 Enchantment Land — Urza’s Saga,Urza's Saga,MH2,259,2021-06-18
+Legendary Creature — Elf Knight,"Galea, Kindler of Hope",AFC,1,2021-07-23
+Legendary Creature — Tiefling Warlock,"Prosper, Tome-Bound",AFC,2,2021-07-23
+Legendary Creature — Dragon Barbarian,"Vrondiss, Rage of Ancients",AFC,4,2021-07-23
+Legendary Creature — Gnome Wizard,"Minn, Wily Illusionist",AFC,16,2021-07-23
+Creature — Beholder Skeleton,Death Tyrant,AFC,23,2021-07-23
+Creature — Tiefling Rogue,Grim Hireling,AFC,25,2021-07-23
+Creature — Dragon Warrior,Dragonborn Champion,AFC,45,2021-07-23
+Legendary Creature — Beholder,"Karazikar, the Eye Tyrant",AFC,49,2021-07-23
+Legendary Creature — Horror,Nihiloor,AFC,53,2021-07-23
+Enchantment — Class,Cleric Class,AFR,6,2021-07-23
 Creature — Orc Knight,Devoted Paladin,AFR,11,2021-07-23
 Creature — Dwarf Ranger,Gloom Stalker,AFR,16,2021-07-23
+Legendary Planeswalker — Bahamut,Grand Master of Flowers,AFR,17,2021-07-23
 Creature — Human Elf Monk,Half-Elf Monk,AFR,19,2021-07-23
+Creature — Elf Monk,Monk of the Open Hand,AFR,25,2021-07-23
 Creature — Human Elf Cleric,Moon-Blessed Cleric,AFR,26,2021-07-23
 Legendary Creature — Dragon Knight,"Nadaar, Selfless Paladin",AFR,27,2021-07-23
-Legendary Creature — Gnome Artificer,"""Oswald Fiddlebender""",AFR,28,2021-07-23
+Legendary Creature — Gnome Artificer,Oswald Fiddlebender,AFR,28,2021-07-23
+Creature — Human Elf Shaman,Aberrant Mind Sorcerer,AFR,44,2021-07-23
 Creature — Gnome Wizard,Clever Conjurer,AFR,51,2021-07-23
 Creature — Dragon Turtle,Dragon Turtle,AFR,56,2021-07-23
-Legendary Creature — Horror,"Grazilaxx, Illithid Scholar",AFR,60,2021-07-23
+Creature — Tiefling Wizard,Eccentric Apprentice,AFR,57,2021-07-23
+Creature — Gnome Warlock,Feywild Trickster,AFR,58,2021-07-23
+Legendary Planeswalker — Mordenkainen,Mordenkainen,AFR,64,2021-07-23
+Creature — Tiefling Shaman,Scion of Stygia,AFR,70,2021-07-23
 Creature — Snake Rogue,Yuan-Ti Malison,AFR,86,2021-07-23
+Legendary Creature — Devil God,Asmodeus the Archfiend,AFR,88,2021-07-23
 Creature — Beholder,Baleful Beholder,AFR,89,2021-07-23
+Creature — Tiefling Cleric,Death-Priest of Myrkul,AFR,95,2021-07-23
 Creature — Elf Spider,Drider,AFR,98,2021-07-23
 Creature — Goblin Warlock,Grim Wanderer,AFR,107,2021-07-23
+Creature — Elf Warlock,Hired Hexblade,AFR,109,2021-07-23
+Creature — Halfling Rogue,Lightfoot Rogue,AFR,111,2021-07-23
 Legendary Planeswalker — Lolth,"Lolth, Spider Queen",AFR,112,2021-07-23
-Creature — Dwarf Citizen,"""Skullport Merchant""",AFR,120,2021-07-23
+Creature — Dwarf Citizen,Skullport Merchant,AFR,120,2021-07-23
 Creature — Goblin Barbarian,Hobgoblin Captain,AFR,148,2021-07-23
 Creature — Dwarf Barbarian,Plundering Barbarian,AFR,158,2021-07-23
-Creature — Tiefling Bard,"""Horny Bard""",AFR,165,2021-07-23
+Creature — Tiefling Bard,Valor Singer,AFR,165,2021-07-23
 Legendary Creature — Giant Barbarian,"Zalto, Fire Giant Duke",AFR,171,2021-07-23
 Legendary Planeswalker — Zariel,"Zariel, Archduke of Avernus",AFR,172,2021-07-23
+Creature — Human Elf Druid,Circle of the Moon Druid,AFR,177,2021-07-23
 Legendary Planeswalker — Ellywick,Ellywick Tumblestrum,AFR,181,2021-07-23
 Creature — Human Elf Ranger,Elturgard Ranger,AFR,182,2021-07-23
 Creature — Frog Horror,Froghemoth,AFR,184,2021-07-23
@@ -2030,12 +2068,15 @@ Creature — Elf Bard,Inspiring Bard,AFR,189,2021-07-23
 Creature — Orc Ranger,Intrepid Outlander,AFR,191,2021-07-23
 Creature — Bird Bear,Owlbear,AFR,198,2021-07-23
 Creature — Halfling Citizen,Prosperous Innkeeper,AFR,200,2021-07-23
+Creature — Lizard Druid,Scaled Herbalist,AFR,204,2021-07-23
 Legendary Creature — Human Elf Ranger,"Varis, Silverymoon Ranger",AFR,209,2021-07-23
+Creature — Dragon Bard,Wandering Troubadour,AFR,210,2021-07-23
 Legendary Creature — Elf Ranger,Drizzt Do'Urden,AFR,220,2021-07-23
-Legendary Creature — Tiefling Warlock,"""Farideh, Chosen By Devils""",AFR,221,2021-07-23
-Legendary Creature — Human Elf Rogue,"""Krydle of Baldur's Gate""",AFR,226,2021-07-23
+Legendary Creature — Halfling Druid,Gretchen Titchwillow,AFR,223,2021-07-23
+Legendary Creature — Human Elf Bard,"Kalain, Reclusive Painter",AFR,225,2021-07-23
+Legendary Creature — Human Elf Rogue,Krydle of Baldur's Gate,AFR,226,2021-07-23
+Legendary Creature — Human Ranger,"Minsc, Beloved Ranger",AFR,227,2021-07-23
 Legendary Creature — Human Elf Warlock,"Shessra, Death's Whisper",AFR,231,2021-07-23
 Legendary Creature — Gnoll,"Targ Nar, Demon-Fang Gnoll",AFR,234,2021-07-23
 Legendary Creature — Dragon God,Tiamat,AFR,235,2021-07-23
-Legendary Creature — Beholder,"Xanathar, Guild Kingpin",AFR,239,2021-07-23
 Artifact — Treasure,Mimic,AFR,249,2021-07-23

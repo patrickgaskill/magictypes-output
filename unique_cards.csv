@@ -1484,8 +1484,8 @@ Creature — Eldrazi Octopus,Elder Deep-Fiend,EMN,5,2016-07-22
 Creature — Eldrazi Horror,Eternal Scourge,EMN,7,2016-07-22
 Creature — Eldrazi Beast,Mockery of Nature,EMN,10,2016-07-22
 Creature — Eldrazi Hippogriff,Wretched Gryff,EMN,12,2016-07-22
-Legendary Creature — Angel Horror,"Bruna, the Fading Light // Gisela, the Broken Blade",EMN,15a,2016-07-22
-Legendary Creature — Eldrazi Angel,"Brisela, Voice of Nightmares // Gisela, the Broken Blade",EMN,15b,2016-07-22
+Legendary Creature — Angel Horror,"Bruna, the Fading Light // Brisela, Voice of Nightmares",EMN,15a,2016-07-22
+Legendary Creature — Eldrazi Angel,"Brisela, Voice of Nightmares",EMN,15b,2016-07-22
 Creature — Eldrazi Homunculus,Curious Homunculus // Voracious Reader,EMN,54,2016-07-22
 Creature — Eldrazi Fish,Grizzled Angler // Grisly Anglerfish,EMN,63,2016-07-22
 Creature — Human Horror,Wharf Infiltrator,EMN,80,2016-07-22
@@ -1497,8 +1497,8 @@ Creature — Werewolf Horror,Conduit of Storms // Conduit of Emrakul,EMN,124,201
 Legendary Creature — Eldrazi Ooze,"Hanweir, the Writhing Township",EMN,130b,2016-07-22
 Legendary Creature — Spider,"Ishkanah, Grafwidow",EMN,162,2016-07-22
 Creature — Vampire Cleric,Bloodhall Priest,EMN,181,2016-07-22
-Legendary Creature — Werewolf,"Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha",EMN,191,2016-07-22
 Legendary Creature — Human Werewolf,"Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha",EMN,191,2016-07-22
+Legendary Creature — Werewolf,"Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha",EMN,191,2016-07-22
 Creature — Eldrazi Reflection,Cryptolith Fragment // Aurora of Emrakul,EMN,193,2016-07-22
 Artifact Creature — Wolf Construct,Lupine Prototype,EMN,197,2016-07-22
 Creature — Bird Illusion,Illusionary Informant,CN2,32,2016-08-26
@@ -2080,3 +2080,17 @@ Legendary Creature — Human Elf Warlock,"Shessra, Death's Whisper",AFR,231,2021
 Legendary Creature — Gnoll,"Targ Nar, Demon-Fang Gnoll",AFR,234,2021-07-23
 Legendary Creature — Dragon God,Tiamat,AFR,235,2021-07-23
 Artifact — Treasure,Mimic,AFR,249,2021-07-23
+Creature — Skeleton Dog,Boneyard Aberration,J21,14,2021-08-26
+Legendary Creature — Zombie Turtle,"Gorex, the Tombshell",MIC,20,2021-09-24
+Creature — Zombie Noble,Tomb Tyrant,MIC,23,2021-09-24
+Creature — Human Soldier Werewolf,Brutal Cathar // Moonrage Brute,MID,7,2021-09-24
+Creature — Hippogriff Spirit,Soul-Guide Gryff,MID,35,2021-09-24
+Creature — Spirit Wizard,Malevolent Hermit // Benevolent Geist,MID,61,2021-09-24
+Creature — Leech Horror,Curse of Leeches // Leeching Lurker,MID,94,2021-09-24
+Creature — Human Archer Werewolf,Bird Admirer // Wing Shredder,MID,169,2021-09-24
+Creature — Zombie Bear,Grizzly Ghoul,MID,226,2021-09-24
+Creature — Plant Horror,Rootcoil Creeper,MID,238,2021-09-24
+Creature — Drake Horror,Storm Skreelix,MID,243,2021-09-24
+Artifact Creature — Horror Construct,Hostile Hostel // Creeping Inn,MID,264,2021-09-24
+Legendary Enchantment Creature — Horror,"Mind Flayer, the Shadow",SLD,340,2022-01-28
+Dungeon,Dungeon of the Mad Mage,,20,

@@ -2080,6 +2080,7 @@ Legendary Creature — Human Elf Warlock,"Shessra, Death's Whisper",AFR,231,2021
 Legendary Creature — Gnoll,"Targ Nar, Demon-Fang Gnoll",AFR,234,2021-07-23
 Legendary Creature — Dragon God,Tiamat,AFR,235,2021-07-23
 Artifact — Treasure,Mimic,AFR,249,2021-07-23
+Dungeon,Dungeon of the Mad Mage,TAFR,20,2021-07-23
 Creature — Skeleton Dog,Boneyard Aberration,J21,14,2021-08-26
 Legendary Creature — Zombie Turtle,"Gorex, the Tombshell",MIC,20,2021-09-24
 Creature — Zombie Noble,Tomb Tyrant,MIC,23,2021-09-24
@@ -2092,5 +2093,19 @@ Creature — Zombie Bear,Grizzly Ghoul,MID,226,2021-09-24
 Creature — Plant Horror,Rootcoil Creeper,MID,238,2021-09-24
 Creature — Drake Horror,Storm Skreelix,MID,243,2021-09-24
 Artifact Creature — Horror Construct,Hostile Hostel // Creeping Inn,MID,264,2021-09-24
+Creature — Angel Soldier,Angelic Quartermaster,VOW,2,2021-11-19
+Creature — Spirit Warlock,Dawnhart Geist,VOW,8,2021-11-19
+Legendary Creature — Spirit Warlock,"Katilda, Dawnhart Martyr // Katilda's Rising Dawn",VOW,21,2021-11-19
+Creature — Serpent Egg,Biolume Egg // Biolume Serpent,VOW,49,2021-11-19
+Creature — Bird Horror,Screaming Swarm,VOW,75,2021-11-19
+Creature — Eye Horror,Concealing Curtains // Revealing Eye,VOW,101,2021-11-19
+Creature — Zombie Scorpion,Fell Stinger,VOW,112,2021-11-19
+Creature — Zombie Kraken,Rot-Tide Gargantua,VOW,129,2021-11-19
+Legendary Creature — Slug Horror,"Toxrill, the Corrosive",VOW,132,2021-11-19
+Creature — Plant Beast,Cultivator Colossus,VOW,195,2021-11-19
+Creature — Human Ranger Werewolf,"Oakshade Stalker // ""Moonlight Ambusher""",VOW,212,2021-11-19
+Legendary Creature — Frog,"Grolnok, the Omnivore",VOW,238,2021-11-19
+Legendary Creature — Human Peasant,Old Rutstein,VOW,244,2021-11-19
+Legendary Creature — Kraken Horror,"Runo Stromkirk // Krothuss, Lord of the Deep",VOW,246,2021-11-19
+Artifact — Clue,Investigator's Journal,VOW,258,2021-11-19
 Legendary Enchantment Creature — Horror,"Mind Flayer, the Shadow",SLD,340,2022-01-28
-Dungeon,Dungeon of the Mad Mage,,20,

@@ -2093,17 +2093,20 @@ Creature — Zombie Bear,Grizzly Ghoul,MID,226,2021-09-24
 Creature — Plant Horror,Rootcoil Creeper,MID,238,2021-09-24
 Creature — Drake Horror,Storm Skreelix,MID,243,2021-09-24
 Artifact Creature — Horror Construct,Hostile Hostel // Creeping Inn,MID,264,2021-09-24
+Creature — Spider Horror,Doom Weaver,VOC,34,2021-11-19
+Legendary Creature — Nightmare Horror,"Umbris, Fear Manifest",VOC,38,2021-11-19
 Creature — Angel Soldier,Angelic Quartermaster,VOW,2,2021-11-19
 Creature — Spirit Warlock,Dawnhart Geist,VOW,8,2021-11-19
 Legendary Creature — Spirit Warlock,"Katilda, Dawnhart Martyr // Katilda's Rising Dawn",VOW,21,2021-11-19
 Creature — Serpent Egg,Biolume Egg // Biolume Serpent,VOW,49,2021-11-19
-Creature — Bird Horror,Screaming Swarm,VOW,75,2021-11-19
+Creature — Bird Horror,Cruel Witness,VOW,55,2021-11-19
+Creature — Crab Horror,Dreadlight Monstrosity,VOW,57,2021-11-19
 Creature — Eye Horror,Concealing Curtains // Revealing Eye,VOW,101,2021-11-19
 Creature — Zombie Scorpion,Fell Stinger,VOW,112,2021-11-19
 Creature — Zombie Kraken,Rot-Tide Gargantua,VOW,129,2021-11-19
 Legendary Creature — Slug Horror,"Toxrill, the Corrosive",VOW,132,2021-11-19
 Creature — Plant Beast,Cultivator Colossus,VOW,195,2021-11-19
-Creature — Human Ranger Werewolf,"Oakshade Stalker // ""Moonlight Ambusher""",VOW,212,2021-11-19
+Creature — Human Ranger Werewolf,Oakshade Stalker // Moonlit Ambusher,VOW,212,2021-11-19
 Legendary Creature — Frog,"Grolnok, the Omnivore",VOW,238,2021-11-19
 Legendary Creature — Human Peasant,Old Rutstein,VOW,244,2021-11-19
 Legendary Creature — Kraken Horror,"Runo Stromkirk // Krothuss, Lord of the Deep",VOW,246,2021-11-19

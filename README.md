@@ -12,3 +12,4 @@
 * [Prismatic Omen](https://scryfall.com/card/shm/126/prismatic-omen)
 * [In Bolas's Clutches](https://scryfall.com/card/dom/54/in-bolass-clutches)
 * [Rimefeather Owl](https://scryfall.com/card/csp/42/rimefeather-owl)
+* [Arterial Alchemy](https://scryfall.com/card/voc/23/arterial-alchemy)
